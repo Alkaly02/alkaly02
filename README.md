@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Fullstack developer based in Senegal<br>👯 I’m open to help you take your projects to the next level<br>🤝 I’m also contribute to opensource projects<br>
+🔭 I’m a Fullstack developer based in Senegal<br>👯 I’m open to help you take your projects to the next level<br>🤝 I also contribute to opensource projects<br>
 
 
 ## 🌐 Socials:
